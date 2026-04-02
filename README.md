@@ -1,6 +1,7 @@
-Doordash parser, capable of parsing data from both json and html.
+**Doordash parser, capable of parsing data from both json and html.**
+**The script is working at the time of release**
 
-License
+__License__
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
